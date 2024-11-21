@@ -17,5 +17,9 @@ Language: C#
 Framework: .NET
 IDE: Visual Studio
 Tools: Git for version control
-Purpose:
-This project serves as an educational example of OOP principles and practical file handling in C#. It is ideal for students and developers looking to understand how to design and implement a simple yet functional console application using OOP concepts.
+
+obs!!Known Issues:
+Admin Login: The admin login feature is incomplete or not functioning as expected. Needs further debugging and enhancement.
+Discount Calculation: While discounts are being calculated, there may be inaccuracies or unexpected behavior in some edge cases.
+Save/Print Methods: Certain file-saving and receipt-printing methods might not be executing correctly in some scenarios.
+Key Components:
