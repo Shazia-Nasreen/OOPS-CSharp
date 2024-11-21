@@ -1,0 +1,15 @@
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.AssemblyInfo.cs
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.sourcelink.json
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\bin\Debug\net8.0\KASSASYSTEMB.exe
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\bin\Debug\net8.0\KASSASYSTEMB.deps.json
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\bin\Debug\net8.0\KASSASYSTEMB.runtimeconfig.json
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\bin\Debug\net8.0\KASSASYSTEMB.dll
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\bin\Debug\net8.0\KASSASYSTEMB.pdb
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.dll
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\refint\KASSASYSTEMB.dll
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.pdb
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\KASSASYSTEMB.genruntimeconfig.cache
+C:\Users\sarah\source\repos\KASSASYSTEMB\KASSASYSTEMB\obj\Debug\net8.0\ref\KASSASYSTEMB.dll
